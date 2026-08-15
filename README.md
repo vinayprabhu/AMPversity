@@ -1,7 +1,7 @@
 # AMPversity
 SoTA dataset of antimicrobial peptides
 
-# re-agent hackathon 8/15/26 submission for Track-B
+# RE-AGENT hackathon 8/15/26 submission for Track-B
 
 ​Track B: Build a Dataset or Meta-Analysis
 
