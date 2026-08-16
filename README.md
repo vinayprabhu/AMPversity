@@ -1,6 +1,8 @@
 # Project AMPversity <img src="data/logo.png" height="100">
 SoTA dataset of antimicrobial peptides
 
+# Constituent project (scraping from peer-reviewed papers) 
+- pAMPerclip : <img src="data/pamperclip.jpeg" height="150">
 # RE-AGENT hackathon 8/15/26 submission for Track-B
 
 ​Track B: Build a Dataset or Meta-Analysis
