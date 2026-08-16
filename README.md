@@ -2,7 +2,9 @@
 SoTA dataset of antimicrobial peptides
 
 # Constituent project (scraping from peer-reviewed papers) 
- *pAMPerclip* : <img src="data/pamperclip.jpeg" height="150">
+<img src="data/pamperclip.jpeg" height="150">
+Using Paperclip to scrape all the AMPs hidden in academic peer-reviewed papers (PMC)
+
 # RE-AGENT hackathon 8/15/26 submission for Track-B
 
 ​Track B: Build a Dataset or Meta-Analysis
