@@ -1,4 +1,4 @@
-# Project AMPversity <img src="data/logo.png" height="70">
+# Project AMPversity <img src="data/logo.png" height="100">
 SoTA dataset of antimicrobial peptides
 
 # RE-AGENT hackathon 8/15/26 submission for Track-B
