@@ -5,6 +5,8 @@ SoTA dataset of antimicrobial peptides
 <img src="data/pamperclip.jpeg" height="150">
 Using Paperclip to scrape all the AMPs hidden in academic peer-reviewed papers (PMC)
 
+Zenodo project link: https://doi.org/10.5281/zenodo.21968308
+
 # RE-AGENT hackathon 8/15/26 submission for Track-B
 
 ​Track B: Build a Dataset or Meta-Analysis
